@@ -5,7 +5,7 @@ categories: 3DGames
 tags: 博客
 ---
 # Solar System
-
+太阳系
 ## 运动（抛物运动）
 请用三种方法以上方法，实现物体的抛物线运动。（如，修改Transform属性，使用向量Vector3的方法…）
 ```
@@ -23,9 +23,9 @@ tags: 博客
 ```
 ## 太阳系　　
 　　写一个程序，实现一个完整的太阳系， 其他星球围绕太阳的转速必须不一样，且不在一个法平面上。
-　　![](_v_images/_1522644040_7912.png)
+![运行结果](/img/blog/3-31_1.png)
 
-![运行结果](_v_images/_运行结果_1522643656_25320.png)
+![运行结果](/img/blog/3-31_2.png)
 
 ```
 using System.Collections;
